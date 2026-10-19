@@ -3,7 +3,7 @@ This project is a work in progress.
 3D photogrammetry scanning system powered by Python, Flask, stepper motors, and a Raspberry Pi 4B. Designed for precise small object capture and subsequent 3D model reconstruction.
 
 ## Showcase
-Example images taken with the test setup.
+Example images of a rock taken with the test setup.
 ![Test Run - Rock Showcase](showcase_results/test_run_imgs_rock.gif)
 
 ### Proof of Concept Result
