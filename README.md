@@ -8,6 +8,7 @@ Example images taken with the test setup.
 
 ### 3D Model Result
 [🌐 Open Interactive 3D Model Viewer](https://c4nt-c0de.github.io/3d_scanner/viewer.html)
+
 First 3D model result. The object was photographed only in one orientation, but the level of detail is promising (3D model obtained with RealityScan software).
 
 ## Hardware Stack
@@ -18,7 +19,7 @@ First 3D model result. The object was photographed only in one orientation, but 
 
 ## Software Stack
 - **Control & Automation:** Python, Flask (web interface for triggering and managing scans)
-- **Reconstruction:** Processed and reconstructed using photogrammetry software (e.g., Epic Games RealityScan)
+- **Reconstruction:** Processed and reconstructed using photogrammetry software RealityScan for now, as it is the fastest and quite convenient. We will see if an implementation of some reconstruction algorithm is practical with this setup.
 
 ## Features
 - Automated rotation and image capture workflow.
