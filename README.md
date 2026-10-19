@@ -7,9 +7,8 @@ Example images taken with the test setup.
 ![Test Run - Rock Showcase](showcase_results/test_run_imgs_rock.gif)
 
 ### 3D Model Result
-First 3D model result. The object was photographed only in one orientation, but the level of detail is promising (3D model obtained with RealityScan software).
 [🌐 Open Interactive 3D Model Viewer](https://c4nt-c0de.github.io/3d_scanner/viewer.html)
-*(Click the link above to rotate, inspect, and view the textured 3D scan in your browser)*
+First 3D model result. The object was photographed only in one orientation, but the level of detail is promising (3D model obtained with RealityScan software).
 
 ## Hardware Stack
 - **Microcontroller / Compute:** Raspberry Pi
