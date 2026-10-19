@@ -6,7 +6,7 @@ A custom-built automated 3D photogrammetry scanning system powered by Python, Fl
 
 ![Test Run - Rock Showcase](showcase_results/test_run_imgs_rock.gif)
 ### 3D Model Result
-[View 3D Model Interactively (GLB)](https://gltf-viewer.donmccurdy.com/#url=https://github.com/c4nt-c0de/3d_scanner/raw/main/showcase_results/rock_test.glb)
+[View Interactive 3D Model](https://modelviewer.dev/examples/loader/#url=https://raw.githubusercontent.com/c4nt-c0de/3d_scanner/main/showcase_results/rock_test.glb)
 *(Click the link above to rotate, inspect, and view the textured 3D scan in your browser)*
 
 ## Hardware Stack
