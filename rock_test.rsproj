@@ -1,0 +1,110 @@
+<RealityScan version="2.1.1.119166" sceneRevision="38" sceneId="{8823C75A-A3DD-4F92-83BF-4941B3A362BE}">
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_023.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_023.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_024.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_024.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_001.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_001.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_002.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_002.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_003.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_003.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_004.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_004.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_005.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_005.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_006.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_006.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_007.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_007.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_008.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_008.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_009.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_009.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_010.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_010.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_011.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_011.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_012.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_012.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_013.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_013.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_014.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_014.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_015.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_015.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_016.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_016.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_017.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_017.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_018.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_018.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_019.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_019.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_020.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_020.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_021.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_021.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+        <input fileName="imgs\scan_2026-10-06_01-31-59\photo_022.jpg" width="2304" height="1296" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C">
+            <layer type="mask" fileName="imgs\scan_2026-10-06_01-31-59\photo_022.jpg.mask.png" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC905" width="2304" height="1296"/>
+        </input>
+    </source>
+    <reconstructions selectedComponentId="{E9931803-BF4C-46DD-B7C9-D1F353F0F3F6}">
+        <component name="Component 0" id="{E9931803-BF4C-46DD-B7C9-D1F353F0F3F6}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="rock_test\sfm0.dat" selectedModel="2" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="rock_test\colorNormalization0.dat" />
+            <metadata fileName="rock_test\metadata0.dat"/>
+            <model name="Model 1" fileName="rock_test\model0.dat" unwrappedArea="1.3618830136613105e+03" unwrappLargeTriRemThr="400.000000" minimalTexelSize="2.4654906243085861e-02" texturesUtilization="5.9062194824218750e-01" texelSize="2.4654906243085861e-02" chartsGutterSize="2" averageEdgeLength="1.2273443471483750e-01" coloringStyle="10" texturingStyle="4" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrappingMethod ="0" unwrapModifiers ="1" unwrapName="5F7F7596-2F99-4003-AA1E-4FA2A8F28F4B00569b34c80c7c004802cd07b0d708ad" cleanMark="2" selectedTxLayerGuid="{E7B38802-6DB6-4EA3-A64B-1872511A5160}" depthMapsLibVersion="1"  >
+                <textures>
+                    <textureLayer texturingStyle="4" computationTime="0" id="{E7B38802-6DB6-4EA3-A64B-1872511A5160}" />
+                </textures>
+            </model>
+            <model name="Model 2" fileName="rock_test\model1.dat" unwrappedArea="1.3618830070448457e+03" unwrappLargeTriRemThr="400.000000" minimalTexelSize="2.4654906243085861e-02" texturesUtilization="5.9062194824218750e-01" texelSize="2.4654906243085861e-02" chartsGutterSize="2" averageEdgeLength="1.2273443747850239e-01" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrappingMethod ="0" unwrapModifiers ="1" unwrapName="7FCD50C5-7CB8-474C-A98B-E197F875946Aa0256135b22a7c00a6e3ce0708b9b4b3" cleanMark="2" selectedTxLayerGuid="{28B9B27B-7384-48D9-8E5C-6F2B75A7F28E}" depthMapsLibVersion="1"  >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="2" id="{28B9B27B-7384-48D9-8E5C-6F2B75A7F28E}" />
+                    <textureLayer id="{87E140B1-970A-4832-A821-C1DD55E1ACA7}" />
+                </textures>
+            </model>
+            <model name="Model 3" fileName="rock_test\model2.dat" unwrappedArea="1.3347656641516714e+03" unwrappLargeTriRemThr="200.000000" minimalTexelSize="2.4654906243085861e-02" texturesUtilization="6.3325500488281250e-01" texelSize="2.3833379149436951e-02" chartsGutterSize="2" averageEdgeLength="5.9637223127830444e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrappingMethod ="0" unwrapModifiers ="1" unwrapName="CA1BAE60-1945-44EE-A372-572DE3919FB32092ea243e60a000bad1150a589ad7c7" cleanMark="2" selectedTxLayerGuid="{5D320BBF-FDDB-4410-BC9D-6AE45051371E}" depthMapsLibVersion="1"  >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="2" id="{F0A4FB5B-2D57-4E3F-AA87-69B186D5B1E3}" />
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="2" id="{8697BFFC-CDE6-4A9C-B5EE-7D012C84E402}" />
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="2" id="{5D320BBF-FDDB-4410-BC9D-6AE45051371E}" />
+                    <textureLayer texturingStyle="4" computationTime="1" id="{2A724668-E707-4B74-8AE1-155FAF104E09}" />
+                </textures>
+            </model>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="rock_test\entities0.dat"/>
+    <animation fileName="rock_test\animation0.dat"/>
+    <controlpoints fileName="rock_test\controlpoints0.dat"/>
+    <appConfig fileName="rock_test\appConfig0.dat" />
+</RealityScan>

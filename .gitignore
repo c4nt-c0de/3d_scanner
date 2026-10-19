@@ -1,0 +1,12 @@
+# Syncthing
+.stfolder/
+.stversions/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Scans, models, and local data
+*.glb
+imgs/
+rock_test/
