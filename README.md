@@ -6,7 +6,7 @@ This project is a work in progress.
 Example images taken with the test setup.
 ![Test Run - Rock Showcase](showcase_results/test_run_imgs_rock.gif)
 
-### 3D Model Result
+### Proof of Concept Result
 [🌐 Open Interactive 3D Model Viewer](https://c4nt-c0de.github.io/3d_scanner/viewer.html)
 
 First 3D model result. The object was photographed only in one orientation, but the level of detail is promising (3D model obtained with RealityScan software).
